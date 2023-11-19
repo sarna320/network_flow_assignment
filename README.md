@@ -5,6 +5,6 @@ google or network flow assignment
 ![Alt text](/for_readme/image.png)
 
 # Solution 
-![Alt text](for_readme/image2.png.png)
+![Alt text](/for_readme/image2.png.png)
 
 Problem max flow
